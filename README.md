@@ -3,6 +3,9 @@
 
 # 🛡️ TavernAI – IA Fantasy Conversationnelle & Narrative
 
+![Powered by GPT-4 & AWS](https://img.shields.io/badge/Powered%20by-GPT--4%20%26%20AWS-blueviolet?logo=amazonaws&logoColor=white&style=for-the-badge)
+
+
 > TavernAI est un projet personnel mêlant IA générative, cloud AWS, modélisation de données et narration fantasy.  
 > Il a pour objectif de démontrer mes compétences de Product Owner Data / IA / Cloud à travers une interface immersive d’agent IA narratif.
 
