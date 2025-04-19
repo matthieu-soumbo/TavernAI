@@ -1,3 +1,6 @@
+![TavernAI Banner](tavernai_banner.png)
+
+
 # 🛡️ TavernAI – IA Fantasy Conversationnelle & Narrative
 
 > TavernAI est un projet personnel mêlant IA générative, cloud AWS, modélisation de données et narration fantasy.  
